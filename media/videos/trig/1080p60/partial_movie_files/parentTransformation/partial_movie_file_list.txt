@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/akey/mathTutorials/mathTutorials/media/videos/trig/1080p60/partial_movie_files/parentTransformation/1413466013_3279543989_223132457.mp4'
+file 'file:/home/akey/mathTutorials/mathTutorials/media/videos/trig/1080p60/partial_movie_files/parentTransformation/1672018281_3290913273_2890506627.mp4'
+file 'file:/home/akey/mathTutorials/mathTutorials/media/videos/trig/1080p60/partial_movie_files/parentTransformation/1672018281_1465267842_228706193.mp4'
