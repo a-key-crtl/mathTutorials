@@ -60,17 +60,17 @@ class parentFunctions(Scene):
         self.play(Unwrite(firstLine))
         self.play(Unwrite(secondLine))
         self.play(Create(axes), Create(graph),  Write(graph_label), Write(g))
-        self.wait(20)
+        self.wait(10)
         self.play(Transform(graph, graph2), Transform(graph_label, graph_label2), Transform(g, g2))
-        self.wait(20)
+        self.wait(10)
         self.play(Transform(graph, graph3), Transform(graph_label, graph_label3), Transform(g, g3))
-        self.wait(20)
+        self.wait(10)
         self.play(Transform(graph, graph4), Transform(graph_label, graph_label4), Transform(g, g4))
-        self.wait(20)
+        self.wait(10)
         self.play(Transform(graph, graph6), Transform(graph_label, graph_label6), Transform(g, g6))
-        self.wait(20)
+        self.wait(10)
         self.play(Transform(axes, axes2), Transform(graph, graph5), Transform(graph_label, graph_label5), Transform(g, g5))
-        self.wait(30)
+        self.wait(20)
         
         
         
