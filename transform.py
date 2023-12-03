@@ -122,7 +122,7 @@ class transformations(Scene):
         self.remove(graph_labelIn)
         self.play(Unwrite(insideNeg))
         self.wait(3)
-        self.play(Restore(axes), Restore(graph), Restore(graph_label))
+        self.play(Restore(axes), Restore(graph), Restore(graph_label), run_time=3)
         self.wait(1)
         self.play(Write(stretch))
         self.wait(2)

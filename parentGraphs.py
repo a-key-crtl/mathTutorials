@@ -29,7 +29,7 @@ class parentFunctions(Scene):
         
         graph4 = axes.plot(lambda x: abs(x), color=WHITE)
         graph_label4 = axes.get_graph_label(graph4, label=Tex("$y = |x|$"))
-        
+       
         graph5 = axes2.plot(lambda x: math.sqrt(x), color=WHITE)
         graph_label5 = axes2.get_graph_label(graph5, label=Tex("$y = \sqrt{x}$")).shift(UP)
         
@@ -47,8 +47,23 @@ class parentFunctions(Scene):
         g5 = Text("Square root", color=GREEN).to_corner(DR)
         g6 = Text("Exponential", color=GREEN).to_corner(DR)
         
+        gDom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label, DOWN * 3).scale(0.6)
+        gRan = Tex("$Range: (-\infty, +\infty)$").next_to(gDom, DOWN).scale(0.6)
         
+        g2Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label2, DOWN * 3).scale(0.6)
+        g2Ran = Tex("$Range: [0, +\infty)$").next_to(g2Dom, DOWN * 3).scale(0.6)
         
+        g3Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label3, DOWN * 3).scale(0.6)
+        g3Ran = Tex("$Range: (-\infty, +\infty)$").next_to(g3Dom, DOWN * 3).scale(0.6)
+        
+        g4Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label4, DOWN * 3).scale(0.6)
+        g4Ran = Tex("$Range: [0, +\infty)$").next_to(g4Dom, DOWN * 3).scale(0.6)
+        
+        g5Dom = Tex("$Domain: [0, +\infty)$").next_to(graph_label5, DOWN * 3).scale(0.6)
+        g5Ran = Tex("$Range: [0, +\infty)$").next_to(g5Dom, DOWN * 3).scale(0.6)
+        
+        g6Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label6, DOWN * 3).scale(0.6)
+        g6Ran = Tex("$Range: (0, +\infty)$").next_to(g6Dom, DOWN * 3).scale(0.6)
         
         
         secondLine.next_to(firstLine, DOWN, buff = 1)
@@ -59,17 +74,17 @@ class parentFunctions(Scene):
         self.wait(10)
         self.play(Unwrite(firstLine))
         self.play(Unwrite(secondLine))
-        self.play(Create(axes), Create(graph),  Write(graph_label), Write(g))
+        self.play(Create(axes), Create(graph),  Write(graph_label), Write(g), Write(gDom), Write(gRan))
         self.wait(10)
-        self.play(Transform(graph, graph2), Transform(graph_label, graph_label2), Transform(g, g2))
+        self.play(Transform(graph, graph2), Transform(graph_label, graph_label2), Transform(g, g2), Transform(gDom, g2Dom), Transform(gRan, g2Ran))
         self.wait(10)
-        self.play(Transform(graph, graph3), Transform(graph_label, graph_label3), Transform(g, g3))
+        self.play(Transform(graph, graph3), Transform(graph_label, graph_label3), Transform(g, g3), Transform(gDom, g3Dom), Transform(gRan, g3Ran))
         self.wait(10)
-        self.play(Transform(graph, graph4), Transform(graph_label, graph_label4), Transform(g, g4))
+        self.play(Transform(graph, graph4), Transform(graph_label, graph_label4), Transform(g, g4), Transform(gDom, g4Dom), Transform(gRan, g4Ran))
         self.wait(10)
-        self.play(Transform(graph, graph6), Transform(graph_label, graph_label6), Transform(g, g6))
+        self.play(Transform(graph, graph6), Transform(graph_label, graph_label6), Transform(g, g6), Transform(gDom, g6Dom), Transform(gRan, g6Ran))
         self.wait(10)
-        self.play(Transform(axes, axes2), Transform(graph, graph5), Transform(graph_label, graph_label5), Transform(g, g5))
+        self.play(Transform(axes, axes2), Transform(graph, graph5), Transform(graph_label, graph_label5), Transform(g, g5), Transform(gDom, g5Dom), Transform(gRan, g5Ran))
         self.wait(20)
         
         
