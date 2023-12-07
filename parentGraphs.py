@@ -47,24 +47,23 @@ class parentFunctions(Scene):
         g5 = Text("Square root", color=GREEN).to_corner(DR)
         g6 = Text("Exponential", color=GREEN).to_corner(DR)
         
-        gDom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label, DOWN * 3).scale(0.6)
-        gRan = Tex("$Range: (-\infty, +\infty)$").next_to(gDom, DOWN).scale(0.6)
+        gDom = Tex("$Domain: (-\infty, +\infty)$", color=YELLOW).next_to(graph_label, DOWN * 3).scale(0.6).shift(LEFT)
+        gRan = Tex("$Range: (-\infty, +\infty)$", color=YELLOW).next_to(gDom, DOWN).scale(0.6).shift(LEFT)
         
-        g2Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label2, DOWN * 3).scale(0.6)
-        g2Ran = Tex("$Range: [0, +\infty)$").next_to(g2Dom, DOWN * 3).scale(0.6)
+        g2Dom = Tex("$Domain: (-\infty, +\infty)$", color=YELLOW).next_to(graph_label2, DOWN * 3).scale(0.6)
+        g2Ran = Tex("$Range: [0, +\infty)$", color=YELLOW).next_to(g2Dom, DOWN).scale(0.6)
         
-        g3Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label3, DOWN * 3).scale(0.6)
-        g3Ran = Tex("$Range: (-\infty, +\infty)$").next_to(g3Dom, DOWN * 3).scale(0.6)
+        g3Dom = Tex("$Domain: (-\infty, +\infty)$", color=YELLOW).next_to(graph_label3, DOWN * 3).scale(0.6).shift(RIGHT)
+        g3Ran = Tex("$Range: (-\infty, +\infty)$", color=YELLOW).next_to(g3Dom, DOWN).scale(0.6).shift(RIGHT)
         
-        g4Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label4, DOWN * 3).scale(0.6)
-        g4Ran = Tex("$Range: [0, +\infty)$").next_to(g4Dom, DOWN * 3).scale(0.6)
+        g4Dom = Tex("$Domain: (-\infty, +\infty)$", color=YELLOW).next_to(graph_label4, DOWN * 3).scale(0.6).shift(LEFT)
+        g4Ran = Tex("$Range: [0, +\infty)$", color=YELLOW).next_to(g4Dom, DOWN).scale(0.6).shift(LEFT)
         
-        g5Dom = Tex("$Domain: [0, +\infty)$").next_to(graph_label5, DOWN * 3).scale(0.6)
-        g5Ran = Tex("$Range: [0, +\infty)$").next_to(g5Dom, DOWN * 3).scale(0.6)
+        g5Dom = Tex("$Domain: [0, +\infty)$", color=YELLOW).next_to(graph_label5, DOWN * 4).scale(0.6)
+        g5Ran = Tex("$Range: [0, +\infty)$", color=YELLOW).next_to(g5Dom, DOWN).scale(0.6)
         
-        g6Dom = Tex("$Domain: (-\infty, +\infty)$").next_to(graph_label6, DOWN * 3).scale(0.6)
-        g6Ran = Tex("$Range: (0, +\infty)$").next_to(g6Dom, DOWN * 3).scale(0.6)
-        
+        g6Dom = Tex("$Domain: (-\infty, +\infty)$", color=YELLOW).next_to(graph_label6, DOWN * 3).scale(0.6).shift(DOWN)
+        g6Ran = Tex("$Range: (0, +\infty)$", color=YELLOW).next_to(g6Dom, DOWN).scale(0.6)
         
         secondLine.next_to(firstLine, DOWN, buff = 1)
         self.wait(10)
@@ -72,12 +71,14 @@ class parentFunctions(Scene):
         self.wait(10)
         self.play(Write(secondLine))
         self.wait(10)
-        self.play(Unwrite(firstLine))
-        self.play(Unwrite(secondLine))
+        self.play(
+            *[FadeOut(mob)for mob in self.mobjects]
+        )
+        self.wait(2)
         self.play(Create(axes), Create(graph),  Write(graph_label), Write(g), Write(gDom), Write(gRan))
         self.wait(10)
         self.play(Transform(graph, graph2), Transform(graph_label, graph_label2), Transform(g, g2), Transform(gDom, g2Dom), Transform(gRan, g2Ran))
-        self.wait(10)
+        self.wait(15)
         self.play(Transform(graph, graph3), Transform(graph_label, graph_label3), Transform(g, g3), Transform(gDom, g3Dom), Transform(gRan, g3Ran))
         self.wait(10)
         self.play(Transform(graph, graph4), Transform(graph_label, graph_label4), Transform(g, g4), Transform(gDom, g4Dom), Transform(gRan, g4Ran))
