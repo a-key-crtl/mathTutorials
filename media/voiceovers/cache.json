@@ -1,0 +1,2415 @@
+[
+  {
+    "input_text": "The parent function is the most basic function.",
+    "input_data": {
+      "input_text": "The parent function is the most basic function.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-parent-function-is-the-most-basic-function-11d4bf8f.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 4099999,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 17200000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19400000,
+        "text_offset": 11,
+        "word_length": 9,
+        "text": " function",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24200000,
+        "text_offset": 20,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30600000,
+        "text_offset": 23,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 32200000,
+        "text_offset": 27,
+        "word_length": 5,
+        "text": " most",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33800000,
+        "text_offset": 32,
+        "word_length": 6,
+        "text": " basic",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37800000,
+        "text_offset": 38,
+        "word_length": 10,
+        "text": " function.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " The parent function is the most basic function.",
+    "final_audio": "the-parent-function-is-the-most-basic-function-11d4bf8f.mp3"
+  },
+  {
+    "input_text": "We can apply transformations to our parent function which changes its size, shape, or orientation.",
+    "input_data": {
+      "input_text": "We can apply transformations to our parent function which changes its size, shape, or orientation.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "we-can-apply-transformations-to-our-parent-619305e0.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 3,
+        "text": " we",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 2800000,
+        "text_offset": 3,
+        "word_length": 4,
+        "text": " can",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4200000,
+        "text_offset": 7,
+        "word_length": 6,
+        "text": " apply",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 7000000,
+        "text_offset": 13,
+        "word_length": 16,
+        "text": " transformations",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12800000,
+        "text_offset": 29,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18000000,
+        "text_offset": 32,
+        "word_length": 4,
+        "text": " our",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19000000,
+        "text_offset": 36,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 21600000,
+        "text_offset": 43,
+        "word_length": 10,
+        "text": " function,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27799999,
+        "text_offset": 53,
+        "word_length": 6,
+        "text": " which",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33400000,
+        "text_offset": 59,
+        "word_length": 8,
+        "text": " changes",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38000000,
+        "text_offset": 67,
+        "word_length": 4,
+        "text": " its",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40199999,
+        "text_offset": 71,
+        "word_length": 6,
+        "text": " size,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49200000,
+        "text_offset": 77,
+        "word_length": 7,
+        "text": " shape,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 57600000,
+        "text_offset": 84,
+        "word_length": 3,
+        "text": " or",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 58000000,
+        "text_offset": 87,
+        "word_length": 13,
+        "text": " orientation.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " we can apply transformations to our parent function, which changes its size, shape, or orientation.",
+    "final_audio": "we-can-apply-transformations-to-our-parent-619305e0.mp3"
+  },
+  {
+    "input_text": "The parent function y equals x is known as a Linear function. Its parent graph has the shape of a straight diagonal line extending through the origin of the x y plane. The domain is from negative infinity to positive infinity. The range is from negative infinity to positive infinity as well.",
+    "input_data": {
+      "input_text": "The parent function y equals x is known as a Linear function. Its parent graph has the shape of a straight diagonal line extending through the origin of the x y plane. The domain is from negative infinity to positive infinity. The range is from negative infinity to positive infinity as well.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-parent-function-y-equals-x-is-known-as-a-9964a129.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 12600000,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 13600000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 16800000,
+        "text_offset": 11,
+        "word_length": 9,
+        "text": " function",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22200000,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30200000,
+        "text_offset": 22,
+        "word_length": 7,
+        "text": " equals",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34400000,
+        "text_offset": 29,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36200000,
+        "text_offset": 31,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40599999,
+        "text_offset": 34,
+        "word_length": 6,
+        "text": " known",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42600000,
+        "text_offset": 40,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 45000000,
+        "text_offset": 43,
+        "word_length": 2,
+        "text": " a",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46000000,
+        "text_offset": 45,
+        "word_length": 7,
+        "text": " linear",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 48800000,
+        "text_offset": 52,
+        "word_length": 10,
+        "text": " function.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 69800000,
+        "text_offset": 62,
+        "word_length": 3,
+        "text": " As",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 71200000,
+        "text_offset": 65,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 74600000,
+        "text_offset": 72,
+        "word_length": 6,
+        "text": " graph",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 77800000,
+        "text_offset": 78,
+        "word_length": 4,
+        "text": " has",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 81199999,
+        "text_offset": 82,
+        "word_length": 2,
+        "text": " a",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 82800000,
+        "text_offset": 84,
+        "word_length": 7,
+        "text": " shape,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 108200000,
+        "text_offset": 91,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 116199999,
+        "text_offset": 95,
+        "word_length": 11,
+        "text": " background",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 119400000,
+        "text_offset": 106,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 124200000,
+        "text_offset": 109,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 128400000,
+        "text_offset": 113,
+        "word_length": 9,
+        "text": " diagonal",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 131800000,
+        "text_offset": 122,
+        "word_length": 5,
+        "text": " line",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 140400000,
+        "text_offset": 127,
+        "word_length": 10,
+        "text": " extending",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 141400000,
+        "text_offset": 137,
+        "word_length": 8,
+        "text": " through",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 144600000,
+        "text_offset": 145,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 145800000,
+        "text_offset": 149,
+        "word_length": 7,
+        "text": " origin",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 149200000,
+        "text_offset": 156,
+        "word_length": 3,
+        "text": " of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 151000000,
+        "text_offset": 159,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 152200000,
+        "text_offset": 163,
+        "word_length": 3,
+        "text": " xy",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 156200000,
+        "text_offset": 166,
+        "word_length": 7,
+        "text": " plane.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 166000000,
+        "text_offset": 173,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 169200000,
+        "text_offset": 177,
+        "word_length": 7,
+        "text": " domain",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 172200000,
+        "text_offset": 184,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 174800000,
+        "text_offset": 187,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 175799999,
+        "text_offset": 192,
+        "word_length": 9,
+        "text": " negative",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 178400000,
+        "text_offset": 201,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 182800000,
+        "text_offset": 210,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 187000000,
+        "text_offset": 213,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 189000000,
+        "text_offset": 222,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 199600000,
+        "text_offset": 232,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 202800000,
+        "text_offset": 236,
+        "word_length": 6,
+        "text": " range",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 205200000,
+        "text_offset": 242,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 207600000,
+        "text_offset": 245,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 208800000,
+        "text_offset": 250,
+        "word_length": 9,
+        "text": " negative",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 211400000,
+        "text_offset": 259,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 216200000,
+        "text_offset": 268,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 219600000,
+        "text_offset": 271,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 224000000,
+        "text_offset": 280,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 228800000,
+        "text_offset": 289,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 233800000,
+        "text_offset": 292,
+        "word_length": 6,
+        "text": " well.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " The parent function y equals x is known as a linear function. As parent graph has a shape, the background is the diagonal line extending through the origin of the xy plane. The domain is from negative infinity to positive infinity. The range is from negative infinity to positive infinity as well.",
+    "final_audio": "the-parent-function-y-equals-x-is-known-as-a-9964a129.mp3"
+  },
+  {
+    "input_text": "The parent function y equals x squared is known as the Quadratic function. Its parent graph has a U shape called a parabola. The domain is from negative infinity to positive infinity. The range is from zero included in the set to positive infinity.",
+    "input_data": {
+      "input_text": "The parent function y equals x squared is known as the Quadratic function. Its parent graph has a U shape called a parabola. The domain is from negative infinity to positive infinity. The range is from zero included in the set to positive infinity.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-parent-function-y-equals-x-squared-is-known-as-4566cdab.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 14400000,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15400000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18200000,
+        "text_offset": 11,
+        "word_length": 9,
+        "text": " function",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22599999,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 28200000,
+        "text_offset": 22,
+        "word_length": 7,
+        "text": " equals",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31200000,
+        "text_offset": 29,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33400000,
+        "text_offset": 31,
+        "word_length": 8,
+        "text": " squared",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38000000,
+        "text_offset": 39,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42200000,
+        "text_offset": 42,
+        "word_length": 3,
+        "text": " no",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 45199999,
+        "text_offset": 45,
+        "word_length": 4,
+        "text": " one",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46600000,
+        "text_offset": 49,
+        "word_length": 5,
+        "text": " else",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 50800000,
+        "text_offset": 54,
+        "word_length": 3,
+        "text": " in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 54400000,
+        "text_offset": 57,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 56000000,
+        "text_offset": 61,
+        "word_length": 8,
+        "text": " system.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 91900000,
+        "text_offset": 69,
+        "word_length": 5,
+        "text": " It's",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 100000000,
+        "text_offset": 74,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 101600000,
+        "text_offset": 81,
+        "word_length": 6,
+        "text": " graph",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 104600000,
+        "text_offset": 87,
+        "word_length": 4,
+        "text": " has",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 107000000,
+        "text_offset": 91,
+        "word_length": 2,
+        "text": " a",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 108400000,
+        "text_offset": 93,
+        "word_length": 2,
+        "text": " u",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 110000000,
+        "text_offset": 95,
+        "word_length": 7,
+        "text": "-shaped",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 113000000,
+        "text_offset": 102,
+        "word_length": 5,
+        "text": " call",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 115600000,
+        "text_offset": 107,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 117200000,
+        "text_offset": 110,
+        "word_length": 10,
+        "text": " parabola.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 127400000,
+        "text_offset": 120,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 131199999,
+        "text_offset": 124,
+        "word_length": 7,
+        "text": " domain",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 134400000,
+        "text_offset": 131,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 136600000,
+        "text_offset": 134,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 138000000,
+        "text_offset": 139,
+        "word_length": 9,
+        "text": " negative",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 140800000,
+        "text_offset": 148,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 145200000,
+        "text_offset": 157,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 148000000,
+        "text_offset": 160,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 151000000,
+        "text_offset": 169,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 162399999,
+        "text_offset": 179,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 166000000,
+        "text_offset": 183,
+        "word_length": 6,
+        "text": " range",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 168400000,
+        "text_offset": 189,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 170600000,
+        "text_offset": 192,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 172399999,
+        "text_offset": 197,
+        "word_length": 6,
+        "text": " zero,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 179000000,
+        "text_offset": 203,
+        "word_length": 9,
+        "text": " included",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 183400000,
+        "text_offset": 212,
+        "word_length": 3,
+        "text": " in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 185400000,
+        "text_offset": 215,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 186400000,
+        "text_offset": 219,
+        "word_length": 5,
+        "text": " set,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 192800000,
+        "text_offset": 224,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 194600000,
+        "text_offset": 227,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 197399999,
+        "text_offset": 236,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " The parent function y equals x squared is no one else in the system. It's parent graph has a u-shaped call to parabola. The domain is from negative infinity to positive infinity. The range is from zero, included in the set, to positive infinity.",
+    "final_audio": "the-parent-function-y-equals-x-squared-is-known-as-4566cdab.mp3"
+  },
+  {
+    "input_text": "The parent function y equals x cubed is known as a Cubic function. The domain is from negative infinity to positive infinity. The range is from negative infinity to positive infinity as well.",
+    "input_data": {
+      "input_text": "The parent function y equals x cubed is known as a Cubic function. The domain is from negative infinity to positive infinity. The range is from negative infinity to positive infinity as well.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-parent-function-y-equals-x-cubed-is-known-as-a-d501b6cc.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 2800000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5000000,
+        "text_offset": 11,
+        "word_length": 9,
+        "text": " function",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 9600000,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15000000,
+        "text_offset": 22,
+        "word_length": 7,
+        "text": " equals",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18200000,
+        "text_offset": 29,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20400000,
+        "text_offset": 31,
+        "word_length": 6,
+        "text": " cubed",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 23600000,
+        "text_offset": 37,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27200000,
+        "text_offset": 40,
+        "word_length": 6,
+        "text": " known",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 29000000,
+        "text_offset": 46,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 30800000,
+        "text_offset": 49,
+        "word_length": 6,
+        "text": " cubic",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33400000,
+        "text_offset": 55,
+        "word_length": 10,
+        "text": " function.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46000000,
+        "text_offset": 65,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49200000,
+        "text_offset": 69,
+        "word_length": 7,
+        "text": " domain",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 52000000,
+        "text_offset": 76,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 54400000,
+        "text_offset": 79,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 55800000,
+        "text_offset": 84,
+        "word_length": 9,
+        "text": " negative",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 58200000,
+        "text_offset": 93,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 62000000,
+        "text_offset": 102,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 68200000,
+        "text_offset": 105,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 70800000,
+        "text_offset": 114,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 83000000,
+        "text_offset": 124,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 86000000,
+        "text_offset": 128,
+        "word_length": 6,
+        "text": " range",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 88400000,
+        "text_offset": 134,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 90800000,
+        "text_offset": 137,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 92200000,
+        "text_offset": 142,
+        "word_length": 9,
+        "text": " negative",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 94600000,
+        "text_offset": 151,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 98600000,
+        "text_offset": 160,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 104800000,
+        "text_offset": 163,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 107800000,
+        "text_offset": 172,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 112000000,
+        "text_offset": 181,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 117200000,
+        "text_offset": 184,
+        "word_length": 6,
+        "text": " well.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " The parent function y equals x cubed is known as cubic function. The domain is from negative infinity to positive infinity. The range is from negative infinity to positive infinity as well.",
+    "final_audio": "the-parent-function-y-equals-x-cubed-is-known-as-a-d501b6cc.mp3"
+  },
+  {
+    "input_text": "The parent function y equals the absolute value of x is known as the Absolute Value function. Its parent graph has a recognizable V shape. The domain is from negative infinity to positive infinity. The range is from zero included in the set to positive infinity.",
+    "input_data": {
+      "input_text": "The parent function y equals the absolute value of x is known as the Absolute Value function. Its parent graph has a recognizable V shape. The domain is from negative infinity to positive infinity. The range is from zero included in the set to positive infinity.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-parent-function-y-equals-the-absolute-value-of-eaa7bd80.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 2800000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 4800000,
+        "text_offset": 11,
+        "word_length": 9,
+        "text": " function",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 9200000,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15800000,
+        "text_offset": 22,
+        "word_length": 7,
+        "text": " equals",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18800000,
+        "text_offset": 29,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 20600000,
+        "text_offset": 33,
+        "word_length": 9,
+        "text": " absolute",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24000000,
+        "text_offset": 42,
+        "word_length": 6,
+        "text": " value",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 27799999,
+        "text_offset": 48,
+        "word_length": 3,
+        "text": " of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 29800000,
+        "text_offset": 51,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 32000000,
+        "text_offset": 53,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 35200000,
+        "text_offset": 56,
+        "word_length": 6,
+        "text": " known",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36800000,
+        "text_offset": 62,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 39200000,
+        "text_offset": 65,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40400000,
+        "text_offset": 69,
+        "word_length": 9,
+        "text": " absolute",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44000000,
+        "text_offset": 78,
+        "word_length": 6,
+        "text": " value",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 47600000,
+        "text_offset": 84,
+        "word_length": 10,
+        "text": " function.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 62600000,
+        "text_offset": 94,
+        "word_length": 3,
+        "text": " As",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 63800000,
+        "text_offset": 97,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 66600000,
+        "text_offset": 104,
+        "word_length": 6,
+        "text": " graph",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 69200000,
+        "text_offset": 110,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 71400000,
+        "text_offset": 113,
+        "word_length": 2,
+        "text": " a",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 72200000,
+        "text_offset": 115,
+        "word_length": 13,
+        "text": " recognizable",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 77600000,
+        "text_offset": 128,
+        "word_length": 2,
+        "text": " v",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 81199999,
+        "text_offset": 130,
+        "word_length": 8,
+        "text": "-shaped,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 92400000,
+        "text_offset": 138,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 94800000,
+        "text_offset": 142,
+        "word_length": 7,
+        "text": " domain",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 98200000,
+        "text_offset": 149,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 100399999,
+        "text_offset": 152,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 102000000,
+        "text_offset": 157,
+        "word_length": 9,
+        "text": " negative",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 104200000,
+        "text_offset": 166,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 108000000,
+        "text_offset": 175,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 114000000,
+        "text_offset": 178,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 116000000,
+        "text_offset": 187,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 127600000,
+        "text_offset": 197,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 131199999,
+        "text_offset": 201,
+        "word_length": 6,
+        "text": " range",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 134000000,
+        "text_offset": 207,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 136200000,
+        "text_offset": 210,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 137800000,
+        "text_offset": 215,
+        "word_length": 5,
+        "text": " zero",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 141000000,
+        "text_offset": 220,
+        "word_length": 9,
+        "text": " included",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 147000000,
+        "text_offset": 229,
+        "word_length": 3,
+        "text": " in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 149800000,
+        "text_offset": 232,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 150800000,
+        "text_offset": 236,
+        "word_length": 4,
+        "text": " set",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 153000000,
+        "text_offset": 240,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 157400000,
+        "text_offset": 243,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 161200000,
+        "text_offset": 252,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " The parent function y equals the absolute value of x is known as the absolute value function. As parent graph is a recognizable v-shaped, the domain is from negative infinity to positive infinity. The range is from zero included in the set to positive infinity.",
+    "final_audio": "the-parent-function-y-equals-the-absolute-value-of-eaa7bd80.mp3"
+  },
+  {
+    "input_text": "The parent function y equals b raised to the x is known as the Exponential function. Its parent graph has the shape of what is called an exponential curve. The domain is from negative infinity to positive infinity. The range is from zero not included in the set to positive infinity.",
+    "input_data": {
+      "input_text": "The parent function y equals b raised to the x is known as the Exponential function. Its parent graph has the shape of what is called an exponential curve. The domain is from negative infinity to positive infinity. The range is from zero not included in the set to positive infinity.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-parent-function-y-equals-b-raised-to-the-x-is-3cd8f0a4.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 11600000,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 12600000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 15200000,
+        "text_offset": 11,
+        "word_length": 9,
+        "text": " function",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19600000,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24800000,
+        "text_offset": 22,
+        "word_length": 7,
+        "text": " equals",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 28200000,
+        "text_offset": 29,
+        "word_length": 2,
+        "text": " b",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31400000,
+        "text_offset": 31,
+        "word_length": 7,
+        "text": " raised",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 34600000,
+        "text_offset": 38,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37200000,
+        "text_offset": 41,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 38600000,
+        "text_offset": 45,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 41000000,
+        "text_offset": 47,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 44000000,
+        "text_offset": 50,
+        "word_length": 6,
+        "text": " known",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 46000000,
+        "text_offset": 56,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 48000000,
+        "text_offset": 59,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 49200000,
+        "text_offset": 63,
+        "word_length": 12,
+        "text": " exponential",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 52400000,
+        "text_offset": 75,
+        "word_length": 10,
+        "text": " function.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 66400000,
+        "text_offset": 85,
+        "word_length": 4,
+        "text": " Its",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 71400000,
+        "text_offset": 89,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 73400000,
+        "text_offset": 96,
+        "word_length": 6,
+        "text": " graph",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 76200000,
+        "text_offset": 102,
+        "word_length": 4,
+        "text": " has",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 78800000,
+        "text_offset": 106,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 80399999,
+        "text_offset": 110,
+        "word_length": 6,
+        "text": " shape",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 82800000,
+        "text_offset": 116,
+        "word_length": 3,
+        "text": " of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 85200000,
+        "text_offset": 119,
+        "word_length": 5,
+        "text": " what",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 86600000,
+        "text_offset": 124,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 88200000,
+        "text_offset": 127,
+        "word_length": 7,
+        "text": " called",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 90800000,
+        "text_offset": 134,
+        "word_length": 3,
+        "text": " an",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 94000000,
+        "text_offset": 137,
+        "word_length": 12,
+        "text": " exponential",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 100399999,
+        "text_offset": 149,
+        "word_length": 7,
+        "text": " curve.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 111199999,
+        "text_offset": 156,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 114600000,
+        "text_offset": 160,
+        "word_length": 7,
+        "text": " domain",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 117600000,
+        "text_offset": 167,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 120000000,
+        "text_offset": 170,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 121400000,
+        "text_offset": 175,
+        "word_length": 9,
+        "text": " negative",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 123800000,
+        "text_offset": 184,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 128400000,
+        "text_offset": 193,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 131800000,
+        "text_offset": 196,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 134000000,
+        "text_offset": 205,
+        "word_length": 10,
+        "text": " infinity,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 142800000,
+        "text_offset": 215,
+        "word_length": 4,
+        "text": " and",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 146200000,
+        "text_offset": 219,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 147200000,
+        "text_offset": 223,
+        "word_length": 6,
+        "text": " range",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 150200000,
+        "text_offset": 229,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 152600000,
+        "text_offset": 232,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 154200000,
+        "text_offset": 237,
+        "word_length": 6,
+        "text": " zero,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 161400000,
+        "text_offset": 243,
+        "word_length": 4,
+        "text": " not",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 162800000,
+        "text_offset": 247,
+        "word_length": 9,
+        "text": " included",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 166600000,
+        "text_offset": 256,
+        "word_length": 3,
+        "text": " in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 169200000,
+        "text_offset": 259,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 170600000,
+        "text_offset": 263,
+        "word_length": 5,
+        "text": " set,",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 176800000,
+        "text_offset": 268,
+        "word_length": 3,
+        "text": " to",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 177399999,
+        "text_offset": 271,
+        "word_length": 9,
+        "text": " positive",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 181400000,
+        "text_offset": 280,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " The parent function y equals b raised to the x is known as the exponential function. Its parent graph has the shape of what is called an exponential curve. The domain is from negative infinity to positive infinity, and the range is from zero, not included in the set, to positive infinity.",
+    "final_audio": "the-parent-function-y-equals-b-raised-to-the-x-is-3cd8f0a4.mp3"
+  },
+  {
+    "input_text": "The parent function y equals the square root of x is known as the Square root function. The domain is from zero included in the set to positive infinity. The range is from zero included in the set to positive infinity.",
+    "input_data": {
+      "input_text": "The parent function y equals the square root of x is known as the Square root function. The domain is from zero included in the set to positive infinity. The range is from zero included in the set to positive infinity.",
+      "config": {
+        "format": 8,
+        "channels": 1,
+        "rate": 44100,
+        "chunk": 512
+      },
+      "service": "recorder"
+    },
+    "original_audio": "the-parent-function-y-equals-the-square-root-of-x-c697bace.mp3",
+    "word_boundaries": [
+      {
+        "audio_offset": 0,
+        "text_offset": 0,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 3400000,
+        "text_offset": 4,
+        "word_length": 7,
+        "text": " parent",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 5600000,
+        "text_offset": 11,
+        "word_length": 9,
+        "text": " function",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 10400000,
+        "text_offset": 20,
+        "word_length": 2,
+        "text": " y",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 14600000,
+        "text_offset": 22,
+        "word_length": 7,
+        "text": " equals",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 18000000,
+        "text_offset": 29,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 19800000,
+        "text_offset": 33,
+        "word_length": 7,
+        "text": " square",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 22000000,
+        "text_offset": 40,
+        "word_length": 5,
+        "text": " root",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 24200000,
+        "text_offset": 45,
+        "word_length": 3,
+        "text": " of",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 25400000,
+        "text_offset": 48,
+        "word_length": 2,
+        "text": " x",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 28200000,
+        "text_offset": 50,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 31400000,
+        "text_offset": 53,
+        "word_length": 6,
+        "text": " known",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 33800000,
+        "text_offset": 59,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 36000000,
+        "text_offset": 62,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 37200000,
+        "text_offset": 66,
+        "word_length": 7,
+        "text": " square",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 40000000,
+        "text_offset": 73,
+        "word_length": 5,
+        "text": " root",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 42200000,
+        "text_offset": 78,
+        "word_length": 10,
+        "text": " function.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 57000000,
+        "text_offset": 88,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 59800000,
+        "text_offset": 92,
+        "word_length": 7,
+        "text": " domain",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 62800000,
+        "text_offset": 99,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 65400000,
+        "text_offset": 102,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 66600000,
+        "text_offset": 107,
+        "word_length": 5,
+        "text": " zero",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 70000000,
+        "text_offset": 112,
+        "word_length": 9,
+        "text": " included",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 75600000,
+        "text_offset": 121,
+        "word_length": 3,
+        "text": " in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 78200000,
+        "text_offset": 124,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 79000000,
+        "text_offset": 128,
+        "word_length": 4,
+        "text": " set",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 81600000,
+        "text_offset": 132,
+        "word_length": 8,
+        "text": " deposit",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 87000000,
+        "text_offset": 140,
+        "word_length": 10,
+        "text": " infinity.",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 99600000,
+        "text_offset": 150,
+        "word_length": 4,
+        "text": " The",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 103600000,
+        "text_offset": 154,
+        "word_length": 6,
+        "text": " range",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 106400000,
+        "text_offset": 160,
+        "word_length": 3,
+        "text": " is",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 109200000,
+        "text_offset": 163,
+        "word_length": 5,
+        "text": " also",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 113400000,
+        "text_offset": 168,
+        "word_length": 5,
+        "text": " from",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 118800000,
+        "text_offset": 173,
+        "word_length": 5,
+        "text": " zero",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 122200000,
+        "text_offset": 178,
+        "word_length": 9,
+        "text": " included",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 128000000,
+        "text_offset": 187,
+        "word_length": 3,
+        "text": " in",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 130399999,
+        "text_offset": 190,
+        "word_length": 4,
+        "text": " the",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 131400000,
+        "text_offset": 194,
+        "word_length": 4,
+        "text": " set",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 139600000,
+        "text_offset": 198,
+        "word_length": 8,
+        "text": " deposit",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 141000000,
+        "text_offset": 206,
+        "word_length": 9,
+        "text": " infinity",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 147000000,
+        "text_offset": 215,
+        "word_length": 3,
+        "text": " as",
+        "boundary_type": "Word"
+      },
+      {
+        "audio_offset": 149800000,
+        "text_offset": 218,
+        "word_length": 6,
+        "text": " well.",
+        "boundary_type": "Word"
+      }
+    ],
+    "transcribed_text": " The parent function y equals the square root of x is known as the square root function. The domain is from zero included in the set deposit infinity. The range is also from zero included in the set deposit infinity as well.",
+    "final_audio": "the-parent-function-y-equals-the-square-root-of-x-c697bace.mp3"
+  },
+  {
+    "input_text": "Here we have the parent graph of our quadratic function y equals x squared.",
+    "input_data": {
+      "input_text": "Here we have the parent graph of our quadratic function y equals x squared.",
+      "service": "gtts"
+    },
+    "original_audio": "here-we-have-the-parent-graph-of-our-quadratic-bfbecbec.mp3",
+    "final_audio": "here-we-have-the-parent-graph-of-our-quadratic-bfbecbec.mp3"
+  },
+  {
+    "input_text": "If we want to translate our graph up, we simply add to the parent function.",
+    "input_data": {
+      "input_text": "If we want to translate our graph up, we simply add to the parent function.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-want-to-translate-our-graph-up-we-simply-add-fb5705dc.mp3",
+    "final_audio": "if-we-want-to-translate-our-graph-up-we-simply-add-fb5705dc.mp3"
+  },
+  {
+    "input_text": "If we add 5 to the parent function, we now have y equals x squared plus five. This will translate the graph up five units.",
+    "input_data": {
+      "input_text": "If we add 5 to the parent function, we now have y equals x squared plus five. This will translate the graph up five units.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-add-5-to-the-parent-function-we-now-have-y-387f5f4f.mp3",
+    "final_audio": "if-we-add-5-to-the-parent-function-we-now-have-y-387f5f4f.mp3"
+  },
+  {
+    "input_text": "Let's restore back to our parent graph again and remove the five we added.",
+    "input_data": {
+      "input_text": "Let's restore back to our parent graph again and remove the five we added.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-restore-back-to-our-parent-graph-again-and-8d757e46.mp3",
+    "final_audio": "let-s-restore-back-to-our-parent-graph-again-and-8d757e46.mp3"
+  },
+  {
+    "input_text": "If we wanted to translate our parent function down, we subtract from the parent function.",
+    "input_data": {
+      "input_text": "If we wanted to translate our parent function down, we subtract from the parent function.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-wanted-to-translate-our-parent-function-down-c995a1fe.mp3",
+    "final_audio": "if-we-wanted-to-translate-our-parent-function-down-c995a1fe.mp3"
+  },
+  {
+    "input_text": "Subtracting three from the parent function will shift the graph down three units.",
+    "input_data": {
+      "input_text": "Subtracting three from the parent function will shift the graph down three units.",
+      "service": "gtts"
+    },
+    "original_audio": "subtracting-three-from-the-parent-function-will-5467f3a1.mp3",
+    "final_audio": "subtracting-three-from-the-parent-function-will-5467f3a1.mp3"
+  },
+  {
+    "input_text": "Removing our minus three restores our parent graph.",
+    "input_data": {
+      "input_text": "Removing our minus three restores our parent graph.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-our-minus-three-restores-our-parent-graph-6bc87822.mp3",
+    "final_audio": "removing-our-minus-three-restores-our-parent-graph-6bc87822.mp3"
+  },
+  {
+    "input_text": "Now if we want to translate our graph to the right we would subtract from inside the parent function.",
+    "input_data": {
+      "input_text": "Now if we want to translate our graph to the right we would subtract from inside the parent function.",
+      "service": "gtts"
+    },
+    "original_audio": "now-if-we-want-to-translate-our-graph-to-the-right-d5e6caf5.mp3",
+    "final_audio": "now-if-we-want-to-translate-our-graph-to-the-right-d5e6caf5.mp3"
+  },
+  {
+    "input_text": "Notice we subtracted four from x inside the parentheses of our parent function. It is x minus 4 squared instead of x squared minus 4. This will translate the graph right four units",
+    "input_data": {
+      "input_text": "Notice we subtracted four from x inside the parentheses of our parent function. It is x minus 4 squared instead of x squared minus 4. This will translate the graph right four units",
+      "service": "gtts"
+    },
+    "original_audio": "notice-we-subtracted-four-from-x-inside-the-27a18947.mp3",
+    "final_audio": "notice-we-subtracted-four-from-x-inside-the-27a18947.mp3"
+  },
+  {
+    "input_text": "Here we are back to our parent function.",
+    "input_data": {
+      "input_text": "Here we are back to our parent function.",
+      "service": "gtts"
+    },
+    "original_audio": "here-we-are-back-to-our-parent-function-62b9c76e.mp3",
+    "final_audio": "here-we-are-back-to-our-parent-function-62b9c76e.mp3"
+  },
+  {
+    "input_text": "To translate our graph to the left, we add to the parent function.",
+    "input_data": {
+      "input_text": "To translate our graph to the left, we add to the parent function.",
+      "service": "gtts"
+    },
+    "original_audio": "to-translate-our-graph-to-the-left-we-add-to-the-12e7119c.mp3",
+    "final_audio": "to-translate-our-graph-to-the-left-we-add-to-the-12e7119c.mp3"
+  },
+  {
+    "input_text": "Adding two to x inside the parent function shifts the graph left two units.",
+    "input_data": {
+      "input_text": "Adding two to x inside the parent function shifts the graph left two units.",
+      "service": "gtts"
+    },
+    "original_audio": "adding-two-to-x-inside-the-parent-function-shifts-7dc604b0.mp3",
+    "final_audio": "adding-two-to-x-inside-the-parent-function-shifts-7dc604b0.mp3"
+  },
+  {
+    "input_text": "Let's look at more transformations with another parent graph, the square root function.",
+    "input_data": {
+      "input_text": "Let's look at more transformations with another parent graph, the square root function.",
+      "service": "gtts"
+    },
+    "original_audio": "let-s-look-at-more-transformations-with-another-b3f04666.mp3",
+    "final_audio": "let-s-look-at-more-transformations-with-another-b3f04666.mp3"
+  },
+  {
+    "input_text": "A negative sign on the outside shows a reflection across the x axis",
+    "input_data": {
+      "input_text": "A negative sign on the outside shows a reflection across the x axis",
+      "service": "gtts"
+    },
+    "original_audio": "a-negative-sign-on-the-outside-shows-a-reflection-dfed7d6d.mp3",
+    "final_audio": "a-negative-sign-on-the-outside-shows-a-reflection-dfed7d6d.mp3"
+  },
+  {
+    "input_text": "So if we put a negative on the outside of our square root we see the graph flips across the x axis.",
+    "input_data": {
+      "input_text": "So if we put a negative on the outside of our square root we see the graph flips across the x axis.",
+      "service": "gtts"
+    },
+    "original_audio": "so-if-we-put-a-negative-on-the-outside-of-our-6a3d590d.mp3",
+    "final_audio": "so-if-we-put-a-negative-on-the-outside-of-our-6a3d590d.mp3"
+  },
+  {
+    "input_text": "Removing the negative restores our parent graph.",
+    "input_data": {
+      "input_text": "Removing the negative restores our parent graph.",
+      "service": "gtts"
+    },
+    "original_audio": "removing-the-negative-restores-our-parent-graph-1182dded.mp3",
+    "final_audio": "removing-the-negative-restores-our-parent-graph-1182dded.mp3"
+  },
+  {
+    "input_text": "A negative sign on the inside shows a reflection across the y axis.",
+    "input_data": {
+      "input_text": "A negative sign on the inside shows a reflection across the y axis.",
+      "service": "gtts"
+    },
+    "original_audio": "a-negative-sign-on-the-inside-shows-a-reflection-0a2fb308.mp3",
+    "final_audio": "a-negative-sign-on-the-inside-shows-a-reflection-0a2fb308.mp3"
+  },
+  {
+    "input_text": "If we apply a negative directly to x inside the square root, the graph flips across the y axis and is now pointing to the left.",
+    "input_data": {
+      "input_text": "If we apply a negative directly to x inside the square root, the graph flips across the y axis and is now pointing to the left.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-apply-a-negative-directly-to-x-inside-the-22f329d3.mp3",
+    "final_audio": "if-we-apply-a-negative-directly-to-x-inside-the-22f329d3.mp3"
+  },
+  {
+    "input_text": "You can see the importance of where you place a negative sign to your parent function. A negative on the outside will flip the graph across the x axis and a negative being multiplied to x inside flips the graph across the y axis.",
+    "input_data": {
+      "input_text": "You can see the importance of where you place a negative sign to your parent function. A negative on the outside will flip the graph across the x axis and a negative being multiplied to x inside flips the graph across the y axis.",
+      "service": "gtts"
+    },
+    "original_audio": "you-can-see-the-importance-of-where-you-place-a-1333b683.mp3",
+    "final_audio": "you-can-see-the-importance-of-where-you-place-a-1333b683.mp3"
+  },
+  {
+    "input_text": "Let us return to our quadratic parent graph.",
+    "input_data": {
+      "input_text": "Let us return to our quadratic parent graph.",
+      "service": "gtts"
+    },
+    "original_audio": "let-us-return-to-our-quadratic-parent-graph-1e8397f3.mp3",
+    "final_audio": "let-us-return-to-our-quadratic-parent-graph-1e8397f3.mp3"
+  },
+  {
+    "input_text": "Multiplying by a number bigger than 1 stretches the function",
+    "input_data": {
+      "input_text": "Multiplying by a number bigger than 1 stretches the function",
+      "service": "gtts"
+    },
+    "original_audio": "multiplying-by-a-number-bigger-than-1-stretches-eca5557f.mp3",
+    "final_audio": "multiplying-by-a-number-bigger-than-1-stretches-eca5557f.mp3"
+  },
+  {
+    "input_text": "If we multiply x squared by two, we stretch the graph by a factor of two which makes the graph appear taller.",
+    "input_data": {
+      "input_text": "If we multiply x squared by two, we stretch the graph by a factor of two which makes the graph appear taller.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-multiply-x-squared-by-two-we-stretch-the-a5778cce.mp3",
+    "final_audio": "if-we-multiply-x-squared-by-two-we-stretch-the-a5778cce.mp3"
+  },
+  {
+    "input_text": "Here is our parent graph.",
+    "input_data": {
+      "input_text": "Here is our parent graph.",
+      "service": "gtts"
+    },
+    "original_audio": "here-is-our-parent-graph-b243fbe1.mp3",
+    "final_audio": "here-is-our-parent-graph-b243fbe1.mp3"
+  },
+  {
+    "input_text": "Multiplying by a number less than 1 (fraction or decimal) shrinks the function",
+    "input_data": {
+      "input_text": "Multiplying by a number less than 1 (fraction or decimal) shrinks the function",
+      "service": "gtts"
+    },
+    "original_audio": "multiplying-by-a-number-less-than-1-fraction-or-8660b7db.mp3",
+    "final_audio": "multiplying-by-a-number-less-than-1-fraction-or-8660b7db.mp3"
+  },
+  {
+    "input_text": "If we multiply x squared by zero point five, we are shrinking the graph by a factor of zero point five which makes the graph appear shorter or wider.",
+    "input_data": {
+      "input_text": "If we multiply x squared by zero point five, we are shrinking the graph by a factor of zero point five which makes the graph appear shorter or wider.",
+      "service": "gtts"
+    },
+    "original_audio": "if-we-multiply-x-squared-by-zero-point-five-we-are-fb497557.mp3",
+    "final_audio": "if-we-multiply-x-squared-by-zero-point-five-we-are-fb497557.mp3"
+  }
+]

@@ -1,9 +1,12 @@
 from manim import *
 import math
+from manim_voiceover import VoiceoverScene
+from manim_voiceover.services.gtts import GTTSService
 
 
-class transformations(Scene):
+class transformations(VoiceoverScene):
     def construct(self):
+        self.set_speech_service(GTTSService())
         axes = Axes(
             x_range=[-20,20,5],
             y_range=[-15,15,5],
@@ -77,63 +80,92 @@ class transformations(Scene):
         graph_labelShrink = axes.get_graph_label(graphStretch, label="y = 0.5x^{2}").shift(RIGHT)
         LabelShrink = Text("Makes the function shorter/wider").scale(0.4).move_to([4,1,0])
         
-        self.play(Create(axes), Create(graph),  Write(graph_label))
+        self.wait(1)
+        with self.voiceover(text="Here we have the parent graph of our quadratic function y equals x squared. ") as tracker:
+            self.play(Create(axes), Create(graph),  Write(graph_label))
         self.wait(2)
-        self.play(Write(transUp))
-        self.wait(5)
-        self.play(Transform(graph, graphUp),Transform(graph_label, graph_labelUp), Write(LabelUp))
+        with self.voiceover(text="If we want to translate our graph up, we simply add to the parent function.") as tracker:
+            self.play(Write(transUp))
         self.wait(2)
-        self.play(Restore(graph), Restore(graph_label), Unwrite(LabelUp))
+        with self.voiceover(text="If we add 5 to the parent function, we now have y equals x squared plus five. This will translate the graph up five units.") as tracker:
+            self.play(Transform(graph, graphUp),Transform(graph_label, graph_labelUp), Write(LabelUp))
+        self.wait(2)
+        with self.voiceover(text="Let's restore back to our parent graph again and remove the five we added.") as tracker:
+            self.play(Restore(graph), Restore(graph_label), Unwrite(LabelUp))
         self.play(Unwrite(transUp))
         self.wait(2)
-        self.play(Write(transDown))
-        self.wait(5)
-        self.play(Transform(graph, graphDown),Transform(graph_label, graph_labelDown), Write(LabelDown))
+        with self.voiceover(text="If we wanted to translate our parent function down, we subtract from the parent function.") as tracker:
+            self.play(Write(transDown))
         self.wait(2)
-        self.play(Restore(graph), Restore(graph_label), Unwrite(LabelDown))
-        self.play(Unwrite(transDown))
+        with self.voiceover(text="Subtracting three from the parent function will shift the graph down three units. ") as tracker:
+            self.play(Transform(graph, graphDown),Transform(graph_label, graph_labelDown), Write(LabelDown))
         self.wait(2)
-        self.play(Write(transRight))
-        self.wait(5)
-        self.play(Transform(graph, graphRight), Transform(graph_label, graph_labelRight), Write(LabelRight))
+        with self.voiceover(text="Removing our minus three restores our parent graph.") as tracker:
+            self.play(Restore(graph), Restore(graph_label), Unwrite(LabelDown))
+            self.play(Unwrite(transDown))
         self.wait(2)
-        self.play(Restore(graph), Restore(graph_label), Unwrite(LabelRight))
-        self.play(Unwrite(transRight))
+        with self.voiceover(text="Now if we want to translate our graph to the right we would subtract from inside the parent function.") as tracker:
+            self.play(Write(transRight))
         self.wait(2)
-        self.play(Write(transLeft))
-        self.wait(5)
-        self.play(Transform(graph, graphLeft), Transform(graph_label, graph_labelLeft), Write(LabelLeft))
-        self.wait(10)
-        self.play(Transform(axes, axes2),Unwrite(transLeft), Unwrite(LabelLeft), Transform(graph, graph2), Transform(graph_label, graph_label2), run_time=3)
+        with self.voiceover(text="Notice we subtracted four from x inside the parentheses of our parent function. It is x minus 4 squared instead of x squared minus 4. This will translate the graph right four units") as tracker:
+            self.play(Transform(graph, graphRight), Transform(graph_label, graph_labelRight), Write(LabelRight))
         self.wait(2)
-        self.play(Write(outsideNeg))
-        self.wait(5)
-        self.play(TransformFromCopy(graph, graphFlipX), TransformFromCopy(graph_label, graph_labelFlipX))
-        self.wait(5)
-        self.remove(graphFlipX)
-        self.remove(graph_labelFlipX)
-        self.play(Unwrite(outsideNeg))
+        with self.voiceover(text="Here we are back to our parent function.") as tracker:
+            self.play(Restore(graph), Restore(graph_label), Unwrite(LabelRight))
+            self.play(Unwrite(transRight))
         self.wait(2)
-        self.play(Write(insideNeg))
+        with self.voiceover(text="To translate our graph to the left, we add to the parent function.") as tracker:
+            self.play(Write(transLeft))
         self.wait(2)
-        self.play(Transform(axes, axes3), Transform(graph, graphIn), Transform(graph_label, graph_labelIn), run_time=3)
+        with self.voiceover(text="Adding two to x inside the parent function shifts the graph left two units.") as tracker:
+            self.play(Transform(graph, graphLeft), Transform(graph_label, graph_labelLeft), Write(LabelLeft))
+        self.wait(2)
+        with self.voiceover(text="Let's look at more transformations with another parent graph, the square root function.") as tracker:
+            self.play(Transform(axes, axes2),Unwrite(transLeft), Unwrite(LabelLeft), Transform(graph, graph2), Transform(graph_label, graph_label2), run_time=3)
+        self.wait(2)
+        with self.voiceover(text="A negative sign on the outside shows a reflection across the x axis") as tracker:
+            self.play(Write(outsideNeg))
+        self.wait(2)
+        with self.voiceover(text="So if we put a negative on the outside of our square root we see the graph flips across the x axis.") as tracker:
+            self.play(TransformFromCopy(graph, graphFlipX), TransformFromCopy(graph_label, graph_labelFlipX))
+        self.wait(2)
+        with self.voiceover(text="Removing the negative restores our parent graph.") as tracker:
+            self.remove(graphFlipX)
+            self.remove(graph_labelFlipX)
+            self.play(Unwrite(outsideNeg))
+        self.wait(2)
+        with self.voiceover(text="A negative sign on the inside shows a reflection across the y axis.") as tracker:
+            self.play(Write(insideNeg))
+        self.wait(2)
+        with self.voiceover(text="If we apply a negative directly to x inside the square root, the graph flips across the y axis and is now pointing  to the left.") as tracker:
+            self.play(Transform(axes, axes3), Transform(graph, graphIn), Transform(graph_label, graph_labelIn), run_time=3)
+        self.wait(2)
+        with self.voiceover(text="You can see the importance of where you place a negative sign to your parent function. A negative on the outside will flip the graph across the x axis and a negative being multiplied to x inside flips the graph across the y axis.") as tracker:
+            self.remove(graphIn)
+            self.remove(graph_labelIn)
+            self.play(Unwrite(insideNeg))
         self.wait(3)
-        self.remove(graphIn)
-        self.remove(graph_labelIn)
-        self.play(Unwrite(insideNeg))
-        self.wait(3)
-        self.play(Restore(axes), Restore(graph), Restore(graph_label), run_time=3)
+        with self.voiceover(text="Let us return to our quadratic parent graph.") as tracker:
+            self.play(Restore(axes), Restore(graph), Restore(graph_label), run_time=2)
         self.wait(1)
-        self.play(Write(stretch))
+        with self.voiceover(text="Multiplying by a number bigger than 1 stretches the function") as tracker:
+            self.play(Write(stretch))
         self.wait(2)
-        self.play(Transform(graph, graphStretch), Transform(graph_label,graph_labelStretch), Write(LabelStretch))
+        with self.voiceover(text="If we multiply x squared by two, we stretch the graph by a factor of two which makes the graph appear taller.") as tracker:
+            self.play(Transform(graph, graphStretch), Transform(graph_label,graph_labelStretch), Write(LabelStretch))
         self.wait(3)
-        self.play(Restore(graph), Restore(graph_label), Unwrite(stretch), Unwrite(LabelStretch))
+        with self.voiceover(text="Here is our parent graph.") as tracker:
+            self.play(Restore(graph), Restore(graph_label), Unwrite(stretch), Unwrite(LabelStretch))
         self.wait(2)
-        self.play(Write(shrink))
+        with self.voiceover(text="Multiplying by a number less than 1 (fraction or decimal) shrinks the function") as tracker:
+            self.play(Write(shrink))
         self.wait(3)
-        self.play(Transform(graph, graphShrink), Transform(graph_label, graph_labelShrink), Write(LabelShrink))
-        self.wait(15)
+        with self.voiceover(text="If we multiply x squared by zero point five, we are shrinking the graph by a factor of zero point five which makes the graph appear shorter or wider. ") as tracker:
+            self.play(Transform(graph, graphShrink), Transform(graph_label, graph_labelShrink), Write(LabelShrink))
+        self.wait(2)
+        self.play(
+            *[FadeOut(mob)for mob in self.mobjects]
+        )
         
         
         
