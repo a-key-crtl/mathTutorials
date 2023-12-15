@@ -1,0 +1,360 @@
+1
+00:00:01,000 --> 00:00:03,851
+In this example we are asked to describe the transformation.
+
+2
+00:00:04,950 --> 00:00:08,983
+Here our equation is y equals negative absolute value of x plus
+
+3
+00:00:09,083 --> 00:00:13,183
+four, then outside the absolute value sign we have a minus seven
+
+4
+00:00:14,266 --> 00:00:17,531
+If you remember, transformations are what we apply to our
+
+5
+00:00:17,631 --> 00:00:21,014
+parent function so let's first take out our parent function
+
+6
+00:00:21,114 --> 00:00:24,615
+from the equation and apply each transformation step by step.
+
+7
+00:00:25,700 --> 00:00:29,374
+Since there is an x written inside an absolute value symbol
+
+8
+00:00:29,474 --> 00:00:33,341
+from our original equation, we know that y equals the absolute
+
+9
+00:00:33,441 --> 00:00:36,284
+value of x is going to be our parent function.
+
+10
+00:00:37,383 --> 00:00:42,690
+Next, we see we are adding four to x inside the absolute value symbol.
+
+11
+00:00:43,783 --> 00:00:47,460
+Since we are adding four inside the parent function
+
+12
+00:00:47,560 --> 00:00:50,422
+we will shift the graph left four units.
+
+13
+00:00:51,516 --> 00:00:53,608
+We are also multiplying a negative to
+
+14
+00:00:53,708 --> 00:00:55,622
+the outside of the absolute value.
+
+15
+00:00:56,716 --> 00:00:59,105
+A negative on the outside will reflect
+
+16
+00:00:59,205 --> 00:01:01,397
+the parent graph across the x axis.
+
+17
+00:01:02,483 --> 00:01:06,118
+Finally, we are subtracting seven at the end of the equation.
+
+18
+00:01:07,216 --> 00:01:10,671
+Our final transformation then will to shift the graph down seven
+
+19
+00:01:10,771 --> 00:01:13,949
+units. Now that we have all of our transformations laid out
+
+20
+00:01:14,049 --> 00:01:16,781
+let's see how this will transform our parent graph.
+
+21
+00:01:19,866 --> 00:01:23,685
+Here is our parent graph of y equals the absolute value of x.
+
+22
+00:01:24,783 --> 00:01:27,717
+Adding four to x inside the absolute
+
+23
+00:01:27,817 --> 00:01:31,004
+value shifts the graph left four units.
+
+24
+00:01:32,100 --> 00:01:35,217
+Then if we place a negative on the outside of
+
+25
+00:01:35,317 --> 00:01:39,079
+the absolute value the graph reflects over the x axis.
+
+26
+00:01:42,166 --> 00:01:46,883
+Lastly, we subtract seven from the whole absolute value term
+
+27
+00:01:46,983 --> 00:01:51,779
+which shifts our graph down seven units. After applying these
+
+28
+00:01:51,879 --> 00:01:56,676
+transformations, our new equation has now become y equals the
+
+29
+00:01:56,776 --> 00:02:00,770
+negative absolute value of x plus four minus seven.
+
+30
+00:02:03,866 --> 00:02:06,449
+Let's look at another example. Again
+
+31
+00:02:06,549 --> 00:02:09,356
+we want to describe the transformation.
+
+32
+00:02:10,450 --> 00:02:13,405
+Here our equation is two times the absolute
+
+33
+00:02:13,505 --> 00:02:15,678
+value of x minus one plus three.
+
+34
+00:02:16,766 --> 00:02:20,983
+If you remember again, transformations are what we apply to our
+
+35
+00:02:21,083 --> 00:02:25,368
+parent function so let's first take out our parent function from
+
+36
+00:02:25,468 --> 00:02:29,205
+the equation and apply each transformation step by step.
+
+37
+00:02:30,300 --> 00:02:33,752
+y equals the absolute value of x is our parent function.
+
+38
+00:02:34,850 --> 00:02:38,720
+Then we subtract one from x inside the absolute value sign.
+
+39
+00:02:39,816 --> 00:02:42,981
+This will shift the graph right one unit.
+
+40
+00:02:44,066 --> 00:02:48,485
+Next we multiply two on the outside of the absolute value symbol.
+
+41
+00:02:49,583 --> 00:02:52,871
+Since two is greater than one, we will
+
+42
+00:02:52,971 --> 00:02:56,170
+stretch the graph by a factor of two.
+
+43
+00:02:57,266 --> 00:03:00,379
+Finally we add three to the end of the equation.
+
+44
+00:03:01,466 --> 00:03:04,932
+Adding three will shift the graph up three
+
+45
+00:03:05,032 --> 00:03:08,922
+units. Now let's see how the transformations we
+
+46
+00:03:09,022 --> 00:03:13,252
+have ust described will transform our parent graph.
+
+47
+00:03:15,350 --> 00:03:19,427
+Here we are back to our parent graph for our
+
+48
+00:03:19,527 --> 00:03:24,079
+parent function y equals the absolute value of x.
+
+49
+00:03:25,166 --> 00:03:29,650
+Inside the absolute value we subtract one from x
+
+50
+00:03:29,750 --> 00:03:33,948
+which shifts the graph to the right one unit.
+
+51
+00:03:35,033 --> 00:03:38,726
+Then we multiply two to the outside of the absolute
+
+52
+00:03:38,826 --> 00:03:42,221
+value and stretch the graph by a factor of two.
+
+53
+00:03:43,316 --> 00:03:49,433
+Last but not least, we add three to the absolute value term and
+
+54
+00:03:49,533 --> 00:03:57,032
+shift our graph up three units. So after applying our transformation, our new
+
+55
+00:03:57,132 --> 00:04:03,348
+function is y equals two times the absolute value of x minus one
+
+56
+00:04:03,448 --> 00:04:08,973
+plus three and our graphs shape and position has changed.
+
+57
+00:04:11,066 --> 00:04:15,573
+In our next example, we are told to translate an absolute
+
+58
+00:04:15,673 --> 00:04:20,422
+value function four units to the left, and seven units down.
+
+59
+00:04:21,516 --> 00:04:26,528
+Since we are translating an absolute value function, we know our
+
+60
+00:04:26,628 --> 00:04:31,081
+parent function will be y equals the absolute value of x.
+
+61
+00:04:32,166 --> 00:04:36,037
+This is our parent function.
+
+62
+00:04:37,133 --> 00:04:42,937
+Next we will add four to x inside the absolute value symbol.
+
+63
+00:04:44,033 --> 00:04:50,646
+This translates or shifts the function to the left four units.
+
+64
+00:04:51,733 --> 00:04:56,100
+Lastly, we will subtract seven.
+
+65
+00:04:57,200 --> 00:05:02,650
+This will translate function down seven units. Having applied
+
+66
+00:05:02,750 --> 00:05:08,019
+our translations let's see how this would look graphically.
+
+67
+00:05:10,116 --> 00:05:13,778
+Here we have an absolute value function's parent graph.
+
+68
+00:05:14,866 --> 00:05:18,706
+To translate left four units, we add four
+
+69
+00:05:18,806 --> 00:05:22,551
+to x inside the absolute value function.
+
+70
+00:05:23,650 --> 00:05:29,897
+Then to translate down seven units, we simply subtract seven outside the
+
+71
+00:05:29,997 --> 00:05:37,038
+absolute value term. So after applying our translations, our new function becomes
+
+72
+00:05:37,138 --> 00:05:41,887
+y equals the absolute value of x plus four minus seven.
+
+73
+00:05:43,983 --> 00:05:50,172
+In our next example we are asked to translate a quadratic function three
+
+74
+00:05:50,272 --> 00:05:54,802
+units to the right and stretch it by a factor of two.
+
+75
+00:05:55,900 --> 00:05:59,315
+Since we are asked to translate a quadratic
+
+76
+00:05:59,415 --> 00:06:02,748
+function, we can write y equals x squared.
+
+77
+00:06:03,833 --> 00:06:08,983
+This quadratic function is our parent function.
+
+78
+00:06:10,083 --> 00:06:14,589
+Next, we want to translate our quadratic function three units
+
+79
+00:06:14,689 --> 00:06:18,137
+to the right. To do this we will subtract three
+
+80
+00:06:18,237 --> 00:06:22,592
+from inside our parent function so the equation now becomes
+
+81
+00:06:22,692 --> 00:06:26,518
+y equals then in parentheses, x minus three squared.
+
+82
+00:06:27,616 --> 00:06:30,810
+Subtracting three inside the parentheses will
+
+83
+00:06:30,910 --> 00:06:33,812
+translate the function right three units.
+
+84
+00:06:34,900 --> 00:06:41,173
+Next we multiply by two outside the parentheses.
+
+85
+00:06:42,266 --> 00:06:46,441
+This will stretch it by a factor of two. Now with all of
+
+86
+00:06:46,541 --> 00:06:52,014
+our translations taken care of let's see how this would look graphically.
+
+87
+00:06:54,100 --> 00:06:59,590
+Here is the parent graph of our quadratic function y equals x squared.
+
+88
+00:07:00,683 --> 00:07:04,973
+Subtracting three from x inside the function
+
+89
+00:07:05,073 --> 00:07:08,864
+will shift the graph right three units.
+
+90
+00:07:11,950 --> 00:07:18,563
+Then multiplying by two will stretch the graph by a factor of two.
+

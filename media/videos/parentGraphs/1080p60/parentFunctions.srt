@@ -1,112 +1,112 @@
 1
-00:00:01,000 --> 00:00:04,260
+00:00:01,000 --> 00:00:04,086
 The parent function is the most basic function.
 
 2
-00:00:05,366 --> 00:00:09,228
+00:00:05,200 --> 00:00:08,574
 We can apply transformations to our parent function
 
 3
-00:00:09,328 --> 00:00:12,802
+00:00:08,674 --> 00:00:11,708
 which changes its size, shape, or orientation.
 
 4
-00:00:16,900 --> 00:00:20,535
+00:00:15,800 --> 00:00:18,868
 The parent function y equals x is known as a Linear
 
 5
-00:00:20,635 --> 00:00:25,150
+00:00:18,968 --> 00:00:22,782
 function. Its parent graph has the shape of a straight diagonal
 
 6
-00:00:25,250 --> 00:00:29,179
+00:00:22,882 --> 00:00:26,200
 line extending through the origin of the x y plane. The
 
 7
-00:00:29,279 --> 00:00:34,087
+00:00:26,300 --> 00:00:30,363
 domain is from negative infinity to positive infinity. The range is
 
 8
-00:00:34,187 --> 00:00:37,896
+00:00:30,463 --> 00:00:33,593
 from negative infinity to positive infinity as well.
 
 9
-00:00:38,983 --> 00:00:42,898
+00:00:34,683 --> 00:00:37,490
 The parent function y equals x squared is known as the
 
 10
-00:00:42,998 --> 00:00:47,211
-Quadratic function. Its parent graph as a U shape called a
+00:00:37,590 --> 00:00:40,667
+Quadratic function. Its parent graph has a U shape called a
 
 11
-00:00:47,311 --> 00:00:52,565
+00:00:40,767 --> 00:00:44,544
 parabola. The domain is from negative infinity to positive infinity. The
 
 12
-00:00:52,665 --> 00:00:57,027
+00:00:44,644 --> 00:00:47,775
 range is from zero included in the set to positive infinity.
 
 13
-00:00:58,116 --> 00:01:01,705
+00:00:48,866 --> 00:00:51,351
 The parent function y equals x cubed is known as a
 
 14
-00:01:01,805 --> 00:01:07,165
+00:00:51,451 --> 00:00:55,176
 Cubic function. The domain is from negative infinity to positive infinity.
 
 15
-00:01:07,265 --> 00:01:11,960
+00:00:55,276 --> 00:00:58,536
 The range is from negative infinity to positive infinity as well.
 
 16
-00:01:13,050 --> 00:01:17,539
+00:00:59,633 --> 00:01:03,409
 The parent function y equals the absolute value of x is known
 
 17
-00:01:17,639 --> 00:01:22,731
+00:01:03,509 --> 00:01:07,793
 as the Absolute Value function. Its parent graph has a recognizable V
 
 18
-00:01:22,831 --> 00:01:28,374
+00:01:07,893 --> 00:01:12,559
 shape. The domain is from negative infinity to positive infinity. The range
 
 19
-00:01:28,474 --> 00:01:32,438
+00:01:12,659 --> 00:01:15,990
 is from zero included in the set to positive infinity.
 
 20
-00:01:33,533 --> 00:01:36,978
+00:01:17,083 --> 00:01:19,713
 The parent function y equals b raised to the x is
 
 21
-00:01:37,078 --> 00:01:41,680
+00:01:19,813 --> 00:01:23,334
 known as the Exponential function. Its parent graph has the shape
 
 22
-00:01:41,780 --> 00:01:45,876
+00:01:23,434 --> 00:01:26,565
 of what is called an exponential curve. The domain is from
 
 23
-00:01:45,976 --> 00:01:50,651
+00:01:26,665 --> 00:01:30,242
 negative infinity to positive infinity. The range is from zero not
 
 24
-00:01:50,751 --> 00:01:53,617
+00:01:30,342 --> 00:01:32,526
 included in the set to positive infinity.
 
 25
-00:01:54,716 --> 00:01:58,453
+00:01:33,616 --> 00:01:36,764
 The parent function y equals the square root of x is
 
 26
-00:01:58,553 --> 00:02:02,733
+00:01:36,864 --> 00:01:40,386
 known as the Square root function. The domain is from zero
 
 27
-00:02:02,833 --> 00:02:07,086
+00:01:40,486 --> 00:01:44,070
 included in the set to positive infinity. The range is from
 
 28
-00:02:07,186 --> 00:02:10,480
+00:01:44,170 --> 00:01:46,943
 zero included in the set to positive infinity.
 

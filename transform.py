@@ -1,12 +1,14 @@
 from manim import *
 import math
 from manim_voiceover import VoiceoverScene
-from manim_voiceover.services.gtts import GTTSService
-
+#from manim_voiceover.services.gtts import GTTSService
+from manim_voiceover.services.recorder import RecorderService
 
 class transformations(VoiceoverScene):
     def construct(self):
-        self.set_speech_service(GTTSService())
+        #self.set_speech_service(GTTSService())
+        self.set_speech_service(RecorderService())
+
         axes = Axes(
             x_range=[-20,20,5],
             y_range=[-15,15,5],
